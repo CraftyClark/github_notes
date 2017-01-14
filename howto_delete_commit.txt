@@ -1,0 +1,6 @@
+This is how you can delete a commit's history on github:
+
+git reset --hard hash# 
+git push -f origin branch
+
+insert branch name for branch, i.e. master
